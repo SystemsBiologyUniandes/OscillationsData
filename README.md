@@ -14,6 +14,10 @@ PyEcoLib uses as libraries:
 * [Pandas](https://pandas.pydata.org/)
 * [PyEcoLib](https://github.com/SystemsBiologyUniandes/PyEcoLib/wiki) Used to perform the simulations
 
+ To download the library you can put the command in your terminal (linux, mac)
+ `python3 -m pip3 install PyEcoLib` or in your CMD (windows) with the command
+ `pip install PyEcoLib`
+
 ## Experimental data
 The Raw data obtained from image analysis can be found in the following files
 * RawDataAdder.cvs: Corresponds to the size along the time for 3 replicas of MG1655 k12 E. coli bacteria strains growing in M9+Glucose
@@ -113,5 +117,7 @@ Where we present the central moments of the size distribution obtaining using th
 
 where "time" is the time, "Meansize" is the mean of the size distribution at that time, "VarSize" is the Variance of the distribution at that time.
 
-These data was obtained using the [PyEcoLib](https://github.com/SystemsBiologyUniandes/PyEcoLib/wiki) simulation library
+These data was obtained using the [PyEcoLib](https://github.com/SystemsBiologyUniandes/PyEcoLib/wiki) simulation library.
+
+
 
