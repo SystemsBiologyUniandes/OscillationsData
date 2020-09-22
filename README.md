@@ -14,7 +14,7 @@ PyEcoLib uses as libraries:
 * [Pandas](https://pandas.pydata.org/)
 * [PyEcoLib](https://github.com/SystemsBiologyUniandes/PyEcoLib/wiki) Used to perform the simulations
 
- To download the library you can put the command in your terminal (linux, mac)
+ To download the PyEcoLib library you can put the command in your terminal (linux, mac)
  `python3 -m pip3 install PyEcoLib` or in your CMD (windows) with the command
  `pip install PyEcoLib`
 
