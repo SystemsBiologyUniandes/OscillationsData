@@ -34,8 +34,8 @@ Where "mom" corresponds to the cell index. "area", "length" and "width" correspo
 
 The script performs a data analysis producing the following data:
 
- Corresponds to the information of all the cell cycles found in the trajectories satisfying the condition of having a Coefficient of determination (R2) higher to 0.9 in an exponential fitting.
-* "DSMdataSizer": The same for glycerol bacteria and with R2>0.8.
+* "DSMdataAdder.csv": Corresponds to the information of all the cell cycles found in the trajectories satisfying the condition of having a Coefficient of determination (R2) higher to 0.9 in an exponential fitting.
+* "DSMdataSizer.csv": The same for glycerol bacteria and with R2>0.8.
 
 The data look like this:
 
