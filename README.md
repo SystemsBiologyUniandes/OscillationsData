@@ -20,9 +20,9 @@ PyEcoLib uses as libraries:
 
 ## Experimental data
 The Raw data obtained from image analysis can be found in the following files
-* RawDataAdder.cvs: Corresponds to the size along the time for 3 replicas of MG1655 k12 E. coli bacteria strains growing in M9+Glucose
+* "awDataAdder.cvs": Corresponds to the size along the time for 3 replicas of MG1655 k12 E. coli bacteria strains growing in M9+Glucose
 
-* rawdata.cvs: Corresponds to the size along the time for 3 replicas of MG1655 k12 E. coli bacteria strains growing in M9+Glycerol
+* "rawdata.cvs": Corresponds to the size along the time for 3 replicas of MG1655 k12 E. coli bacteria strains growing in M9+Glycerol
 
 The data are presented in a format similar to this:
 
@@ -91,7 +91,7 @@ where, again, we present, the cell index ("Mother"), the global time ("time") in
 
 To compare the teory with experiments, the script also performs the simulations from the theory presented in the experiment. Some files containing data presented in the main research are:
 
-*"dataCRM1.csv"
+* "dataCRM1.csv"
 
 where the size along the time for a given number of simulated bacteria is presented (5000 cell in ouur case). The data look like:
 
@@ -104,7 +104,7 @@ where the size along the time for a given number of simulated bacteria is presen
 
 These data are used by the script to generate the trayectories of mean size and their fluctiuations.
 
-*"dataFSP6.csv"
+* "dataFSP6.csv"
 
 Where we present the central moments of the size distribution obtaining using the numeric solution of the master equation. The data look like this:
 
